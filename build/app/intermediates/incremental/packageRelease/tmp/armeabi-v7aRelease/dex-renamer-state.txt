@@ -1,0 +1,4 @@
+#Sat Feb 18 12:49:04 GMT 2023
+base.0=C\:\\Users\\pc1\\Code\\calendar\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
